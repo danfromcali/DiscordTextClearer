@@ -1,4 +1,4 @@
-##FEATURES
+## FEATURES
 *Easy to use
 *Can clear upto 99 messages at once using .clear command.
 
