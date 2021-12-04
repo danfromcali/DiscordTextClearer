@@ -1,6 +1,7 @@
 ## FEATURES
 * Easy to use
-* Can clear upto 99 messages at once using .clear command.
+* Can clear upto 99 messages at once using `.clear "#"` command.
+* Note that discord bots in general can only delete messages from the last 14 days.
 
 
 ## HOW TO USE:
